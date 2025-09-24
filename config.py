@@ -12,10 +12,10 @@ API_HASH = getenv("API_HASH", "26100c77cee02e5e34b2bbee58440f86")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWNER_ID", 7044783841))
-OWNER_USERNAME = getenv("OWNER_USERNAME", "CertifiedCoder")
-BOT_USERNAME = getenv("BOT_USERNAME", "AnnieXRobot")
-BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴɴɪᴇ ✘ 𝙼ᴜsɪᴄ˼ ♪")
-ASSUSERNAME = getenv("ASSUSERNAME", "musicxannie")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Lord_Vasudev_Krishna")
+BOT_USERNAME = getenv("BOT_USERNAME", "Noelamusicbot")
+BOT_NAME = getenv("BOT_NAME", "𝐍ᴏᴇʟᴀ 𝝌 𝐌ᴜsɪᴄ ♪")
+ASSUSERNAME = getenv("ASSUSERNAME", "˹𝐍ᴏᴇʟᴀ ✘ 𝐀ssɪsᴛᴀɴᴛ˼")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
 MONGO_DB_URI = getenv("MONGO_DB_URI")
@@ -45,8 +45,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CertifiedNetwork")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/CertifiedDiscussion")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Noela_Music")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+m3qXkZYCBNw1Zjhl")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = False
