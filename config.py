@@ -70,7 +70,7 @@ STRING5 = getenv("STRING_SESSION5")
 START_VIDS = [
     "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4",
     "https://files.catbox.moe/5k729h.mp4",
-    "",
+    "https://files.catbox.moe/nw5tyk.mp4",
 ]
 STICKERS = [
     "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
